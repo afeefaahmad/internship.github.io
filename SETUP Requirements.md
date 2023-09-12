@@ -1,4 +1,4 @@
-
+Layout written here should be as "layout".
 
 ![setup1](https://github.com/afeefaahmad/internship.github.io/assets/75202156/9d3868fa-06ec-4780-8252-859e1e12a26c)
 
