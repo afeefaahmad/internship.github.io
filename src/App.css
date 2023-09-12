@@ -6,7 +6,6 @@ body {
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
-  /* background-color: aqua; */
   background-image: linear-gradient(
       0deg,
       rgba(250, 250, 250, 0.801),
@@ -16,6 +15,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 /* Scroll Bar */
 
@@ -57,8 +57,6 @@ nav {
 .input-group {
   width: 90%;
   margin-right: 35%;
-  /* margin-right: 10%; */
-
 }
 
 #search_field {
@@ -139,8 +137,8 @@ nav {
 }
 
 .ratings {
-  font-size: 1.2rem;
-  color: #fdcc0d;
+  font-size: 1rem;
+  color: #fd750d;
 }
 
 #no_of_reviews {
