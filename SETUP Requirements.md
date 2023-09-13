@@ -16,5 +16,24 @@ Task Completed- Dominos Pizza Card, Rating Stars, Footer
 Next- Router(How to navigate from one page to another)
       Redux(Fetch Restaurants Data from Backend)
 
+Day() :04/09📅
+Agenda- To fetch restaurants from Backend
+Task Completed- axios installation
+
+![4sept1](https://github.com/afeefaahmad/internship.github.io/assets/75202156/6f03ba02-3d20-47df-b215-9e8021a456e2)![4sept](https://github.com/afeefaahmad/internship.github.io/assets/75202156/08aee5a5-dc93-4f18-ba71-fdbbfdae723c)
+
+![s1]
+![s2](https://github.com/afeefaahmad/internship.github.io/assets/75202156/86af4dcb-3d05-4139-ac4b-61b7289f76be)
+(https://github.com/afeefaahmad/internship.github.io/assets/75202156/e0df0e4b-3761-4e3e-a957-94bd2e0e7941)
+
+
+
+
+
+![s3](https://github.com/afeefaahmad/internship.github.io/assets/75202156/f7c046e8-b220-4df4-b916-fac2b12c561a)
+
+npm i axios
+
+
 
 
