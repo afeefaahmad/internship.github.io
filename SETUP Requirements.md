@@ -23,7 +23,9 @@ Task Completed- axios installation
 ![4sept1](https://github.com/afeefaahmad/internship.github.io/assets/75202156/6f03ba02-3d20-47df-b215-9e8021a456e2)![4sept](https://github.com/afeefaahmad/internship.github.io/assets/75202156/08aee5a5-dc93-4f18-ba71-fdbbfdae723c)
 
 ![s1]
-![s2](https://github.com/afeefaahmad/internship.github.io/assets/75202156/86af4dcb-3d05-4139-ac4b-61b7289f76be)
+(https://github.com/afeefaahmad/internship.github.io/assets/75202156/86af4dcb-3d05-4139-ac4b-61b7289f76be)
+
+![s2]
 (https://github.com/afeefaahmad/internship.github.io/assets/75202156/e0df0e4b-3761-4e3e-a957-94bd2e0e7941)
 
 
