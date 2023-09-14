@@ -29,12 +29,16 @@ Task Completed- axios installation
 (https://github.com/afeefaahmad/internship.github.io/assets/75202156/e0df0e4b-3761-4e3e-a957-94bd2e0e7941)
 
 
-
-
-
 ![s3](https://github.com/afeefaahmad/internship.github.io/assets/75202156/f7c046e8-b220-4df4-b916-fac2b12c561a)
 
 npm i axios
+5th Sept:![5sept](https://github.com/afeefaahmad/internship.github.io/assets/75202156/6a5f64d1-f434-4460-ac11-e2d16d405059)
+![5septoutput1](https://github.com/afeefaahmad/internship.github.io/assets/75202156/885a715a-d6cc-499f-8242-e44622aafeef)
+![5septo2](https://github.com/afeefaahmad/internship.github.io/assets/75202156/e8bc0e95-9f67-4ba1-8650-81ee2f5e7f6a)
+
+![5septo3](https://github.com/afeefaahmad/internship.github.io/assets/75202156/35deb0d9-ef3a-45d0-afc9-7b5aedbc2eb0)
+
+
 
 
 
